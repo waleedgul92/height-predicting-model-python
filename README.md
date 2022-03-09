@@ -3,7 +3,7 @@
 ## Dependencies ##
 * Windows 10/Mac OS/Linux.
 ## Exexuting program ##
-* Download the pyton file and install the liabraries and good to go.
+* Download the pyton file and dataset and install the liabraries and good to go.
 # Authors
 1. Ahmed Aleem\
    ahmadaleem13@gmail.com\
