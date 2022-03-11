@@ -8,6 +8,12 @@ The program uses liabraries like numpy ,pandas ,matplotlib and sklearn's modules
 * Made in jupyter notebook.
 ## Exexuting program ##
 * Download the pyton file and dataset and install the liabraries and good to go.
+### Files  ###
+The file 'dataset.csv' contains the dataset. It has almost 100 samples. 
+
+![image](https://user-images.githubusercontent.com/84980384/157911518-ae9f5d13-8e0e-40d0-bd09-9cb987889fc3.png)
+
+
 # Authors
 1. Ahmed Aleem\
    ahmadaleem13@gmail.com\
