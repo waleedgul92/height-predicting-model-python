@@ -36,16 +36,17 @@ Alocated 'y' the "height" column, the 1st column.
 
 * Initializing  Polynomial Feature with degree 2
 * It is fiiting and transforming 'X' variable or features simultaneously. 
-
-![image](https://user-images.githubusercontent.com/84980384/157911953-a0f507da-75db-4ff8-a1b8-5648213a6511.png)
-
 * Now the Linear Regression is initialized.
 * It is fiting the new X.
 * It is predicting it as well.
 
-![image](https://user-images.githubusercontent.com/84980384/157911994-2d8ea0a9-a7ed-4535-bf68-648b8b2daa75.png)
+![image](https://user-images.githubusercontent.com/84980384/157911953-a0f507da-75db-4ff8-a1b8-5648213a6511.png)
 
 * Checking the accuracy score.
+
+![image](https://user-images.githubusercontent.com/84980384/157911994-2d8ea0a9-a7ed-4535-bf68-648b8b2daa75.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/84980384/157912020-f25d26c2-5988-426f-828a-1a0b9d7c9346.png)
 
