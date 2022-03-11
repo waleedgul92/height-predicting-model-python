@@ -46,7 +46,8 @@ Alocated 'y' the "height" column, the 1st column.
 
 ![image](https://user-images.githubusercontent.com/84980384/157911994-2d8ea0a9-a7ed-4535-bf68-648b8b2daa75.png)
 
-
+* We are sorting X and y , so that irregular graph is avoided.
+* We are plotting the X and y
 
 ![image](https://user-images.githubusercontent.com/84980384/157912020-f25d26c2-5988-426f-828a-1a0b9d7c9346.png)
 
