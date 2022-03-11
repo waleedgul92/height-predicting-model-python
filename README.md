@@ -1,7 +1,9 @@
-# height-predicting-model-python
+# Height-predicting-model-python
+# Description
+The program uses liabraries like numpy ,pandas ,matplotlib and sklearn's modules like Linear Regression and PolynomialFeatures.We first made it in matlab and after we implement in python. It determined height of ball using velocity.We made dataset ourselves using formul (1/(2g))(v)^2.
 # Getting Sarted
 ## Dependencies ##
-* Windows 10/Mac OS/Linux.
+* Windows 11/Mac OS/Linux.
 ## Exexuting program ##
 * Download the pyton file and dataset and install the liabraries and good to go.
 # Authors
