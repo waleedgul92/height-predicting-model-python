@@ -28,7 +28,14 @@ Alocated 'y' the "height" column, the 1st column.
 
 ![image](https://user-images.githubusercontent.com/84980384/157911891-c53892ad-7190-4028-bfa2-6064fad2591e.png)
 
+* plotting Scatter plot between 'X' and  'y' , keeping alpha=0.4 and s=8 so that we can see overlapping points
+* Adding xlabel and  ylabel
+* Adding title of plot
+
 ![image](https://user-images.githubusercontent.com/84980384/157911921-eb5c422b-a1e8-499d-bef1-e0936d5f783e.png)
+
+* Initializing  Polynomial Feature with degree 2
+* It is fiiting and transforming 'X' variable or features simultaneously. 
 
 ![image](https://user-images.githubusercontent.com/84980384/157911953-a0f507da-75db-4ff8-a1b8-5648213a6511.png)
 
