@@ -51,6 +51,8 @@ Alocated 'y' the "height" column, the 1st column.
 
 ![image](https://user-images.githubusercontent.com/84980384/157912020-f25d26c2-5988-426f-828a-1a0b9d7c9346.png)
 
+* Comparing the model predicted value and original value.
+
 ![image](https://user-images.githubusercontent.com/84980384/157913189-9821aed7-8354-4a16-8b78-73b34f8b40cd.png)
 
 
