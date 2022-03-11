@@ -9,15 +9,22 @@ The program uses liabraries like numpy ,pandas ,matplotlib and sklearn's modules
 ## Exexuting program ##
 * Download the pyton file and dataset and install the liabraries and good to go.
 ### Files  ###
-The file 'dataset.csv' contains the dataset. It has almost 100 samples. 
+The file 'dataset.csv' contains the dataset. It has almost 100 samples. The "height" is calculated by (1/(2g))(v)^2.
 
 ![image](https://user-images.githubusercontent.com/84980384/157911518-ae9f5d13-8e0e-40d0-bd09-9cb987889fc3.png)
 
 ### Code ###
+* Imported dataset.
+* Imported liabraries.
+* Used .head() to learn about datset using first few lines
+Alocated 'y' the "height" column, the 1st column.
 
 ![image](https://user-images.githubusercontent.com/84980384/157911805-79c2430b-8162-46f2-9b44-cee8e80d525b.png)
 
 ![image](https://user-images.githubusercontent.com/84980384/157911833-99fc9190-488b-4428-bfab-2f4b45e5a7da.png)
+
+* Alocating 'X' the "veclocity" columns of dataset 
+* Using numpy to to convert it into numpy array and Reshaping it , so that it can be used later.
 
 ![image](https://user-images.githubusercontent.com/84980384/157911891-c53892ad-7190-4028-bfa2-6064fad2591e.png)
 
