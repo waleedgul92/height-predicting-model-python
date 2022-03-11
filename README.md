@@ -4,6 +4,8 @@ The program uses liabraries like numpy ,pandas ,matplotlib and sklearn's modules
 # Getting Sarted
 ## Dependencies ##
 * Windows 11/Mac OS/Linux.
+## Installing ##
+* Made in jupyter notebook.
 ## Exexuting program ##
 * Download the pyton file and dataset and install the liabraries and good to go.
 # Authors
